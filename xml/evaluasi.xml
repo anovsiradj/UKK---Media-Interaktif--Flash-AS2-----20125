@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<evaluasi>
+	<soal>
+		<tanya><![CDATA[Suatu keseimbangan dalam desain akan terlihat dengan jelas, ketika padangan di satukan pada sebuah ?]]></tanya>
+		<jawab>
+			<opsi skor="0">Penekanan</opsi>
+			<opsi skor="0">Irama</opsi>
+			<opsi skor="1">Kesatuan</opsi>
+			<opsi skor="0">Perataan</opsi>
+		</jawab>
+	</soal>
+
+	<soal>
+		<tanya><![CDATA[Perulangan suatu objek dengan perubahan bentuk secara bertahap merupakan prinsip ?]]></tanya>
+		<jawab>
+			<opsi skor="0">Kesatuan</opsi>
+			<opsi skor="1">Irama</opsi>
+			<opsi skor="0">Keseimbangan</opsi>
+			<opsi skor="0">Perataan</opsi>
+		</jawab>
+	</soal>
+</evaluasi>
