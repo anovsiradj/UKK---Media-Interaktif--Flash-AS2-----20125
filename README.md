@@ -20,6 +20,11 @@ Ujian Kompetensi Keahlian (UKK) Media Interaktif (MI) di SMK Negeri 3 Yogyakarta
 <!-- _Anda bebas untuk menggunakan, merubah dan mendistribusikan termasuk tujuan komersial, dengan mencantumkan pembuatnya (saya)._ -->
 <!-- _Jika anda tertarik dengan Media Interaktif yang saya buat. Anda dapat mengubungi saya lewat email yang tercantum._ -->
 
+
 ---
+
+TODO:
+
+- Melengkapi soal yg hilang. Saya sendiri tidak tau kok bisa hilang.
 
 *[Blog: Media Interaktif (v3.0)](http://ne-a-r.blogspot.com/search/?q=media interaktif)*
